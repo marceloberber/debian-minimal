@@ -12,7 +12,7 @@ Ou baixe a ISO (torrent) do site oficial do Debian:
 
 > [https://www.debian.org/distrib/](https://www.debian.org/distrib/)
 
-Grave um pen drive com Rufus ou Ventoy.
+Grave um pen drive com [Rufus](https://rufus.ie/pt_BR/) ou [Ventoy](https://www.ventoy.net/en/download.html).
 
 ---
 
