@@ -45,8 +45,11 @@ Configure a **Localidade** em `Brasil` e o **layout do teclado** para `Portuguê
 O Debian tenta, primeiro, utilizar o DHCP para definir o IP da máquina. Caso não encontre um servidor DHCP na rede, configure o IP manualmente. Selecione a opção `Configurar a rede manualmente` e siga os passos:
 
 > Endereço IP: <IP da máquina>
+> 
 > Máscara de rede: <máscara da rede>
+> 
 > Gateway: <gateway da rede>
+> 
 > Endereço do servidor de nomes: <DNS da rede ou DNS público>
 
 <div class id="hostname"></div>
