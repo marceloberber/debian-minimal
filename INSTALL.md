@@ -4,7 +4,7 @@
 
 ## 1. Download da ISO
 
-Baixe a ISO `neti.nst` direto do link:
+Baixe a ISO `netinst` direto do link:
 
 > [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.6.0-amd64-netinst.iso](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.6.0-amd64-netinst.iso)
 
